@@ -30,3 +30,9 @@ h1 {
 h2, h3 {
     color: #d5aae4;
 }
+
+.personal-projects {
+    background-color: #1a1b1f;
+    padding: 25px;
+    border-radius: 25px;
+}
