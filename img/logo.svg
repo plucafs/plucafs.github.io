@@ -4,8 +4,28 @@
     <g transform="matrix(1,0,0,1,-123.817,13.0434)">
         <g id="Livello1">
             <g>
-                <text x="352.309px" y="49.907px" style="font-family:'Intervogue-Bold', 'Intervogue';font-weight:700;font-size:66.667px;fill:rgb(223,221,207);">L<tspan x="384.842px 428.375px 477.575px " y="49.907px 49.907px 49.907px ">UCA</tspan> POLI</text>
-                <text x="243.975px" y="116.573px" style="font-family:'Intervogue-Reg', 'Intervogue';font-size:66.667px;fill:rgb(223,221,207);">So<tspan x="313.842px " y="116.573px ">f</tspan>tw<tspan x="403.042px 440.975px 464.175px " y="116.573px 116.573px 116.573px ">are</tspan> de<tspan x="590.442px 618.775px " y="116.573px 116.573px ">ve</tspan>loper</text>
+                <g>
+                    <g transform="matrix(1,0,0,1,352.309,49.907)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Bold', 'Intervogue';font-weight:700;font-size:66.667px;fill:rgb(223,221,207);">L</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,384.842,49.907)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Bold', 'Intervogue';font-weight:700;font-size:66.667px;fill:rgb(223,221,207);">UC<tspan x="92.734px " y="0px ">A</tspan> POLI</text>
+                    </g>
+                </g>
+                <g>
+                    <g transform="matrix(1,0,0,1,243.975,116.573)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Reg', 'Intervogue';font-size:66.667px;fill:rgb(223,221,207);">So</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,313.842,116.573)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Reg', 'Intervogue';font-size:66.667px;fill:rgb(223,221,207);">ftw</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,403.042,116.573)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Reg', 'Intervogue';font-size:66.667px;fill:rgb(223,221,207);">ar<tspan x="61.134px " y="0px ">e</tspan> de</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,590.442,116.573)">
+                        <text x="0px" y="0px" style="font-family:'Intervogue-Reg', 'Intervogue';font-size:66.667px;fill:rgb(223,221,207);">v<tspan x="28.333px " y="0px ">e</tspan>loper</text>
+                    </g>
+                </g>
             </g>
         </g>
     </g>
